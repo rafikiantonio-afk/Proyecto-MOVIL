@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124016773507",
+    "project_id": "dam-articulosperdidos",
+    "storage_bucket": "dam-articulosperdidos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124016773507:android:9f10c5d9b4f19fee040eb6",
+        "android_client_info": {
+          "package_name": "com.example.articulos_perdidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124016773507-hh1ungntu5g67bfqrcv9u8ebodbsdnts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.articulos_perdidos",
+            "certificate_hash": "017c6907539b4ac5a50496cd7f6fe97f40bcffd0"
+          }
+        },
+        {
+          "client_id": "124016773507-j0evasr0qaa9l0hg5j06cln2a6i80gnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABKlArHaCV4CDIiy3jpPmN3hy3wxjefiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124016773507-j0evasr0qaa9l0hg5j06cln2a6i80gnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
